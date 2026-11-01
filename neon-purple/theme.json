@@ -8,5 +8,6 @@
   "panelColor": "#FF1D1230",
   "accentColor": "#FFE14BFF",
   "textColor": "#FFFFFFFF",
-  "cornerRadiusDp": 24
+  "cornerRadiusDp": 24,
+  "visualStyle": "neon"
 }
