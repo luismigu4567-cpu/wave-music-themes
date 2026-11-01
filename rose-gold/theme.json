@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "layout": "premium",
+  "id": "rose_gold",
+  "name": "Rose Gold",
+  "description": "Rosa profundo · Coral · Elegante",
+  "backgroundColor": "#FF190A12",
+  "panelColor": "#FF321522",
+  "accentColor": "#FFFF7FA8",
+  "textColor": "#FFFFF1F5",
+  "cornerRadiusDp": 24
+}
