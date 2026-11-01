@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "id": "midnight_cyan",
+      "name": "Midnight Cyan",
+      "description": "Cian · AMOLED · Tecnológico",
+      "manifest": "https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/midnight-cyan/theme.json"
+    },
+    {
+      "id": "neon_purple",
+      "name": "Neon Purple",
+      "description": "Violeta neón · Futurista · Vibrante",
+      "manifest": "https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/neon-purple/theme.json"
+    },
+    {
+      "id": "golden_noir",
+      "name": "Golden Noir",
+      "description": "Negro profundo · Dorado · Sofisticado",
+      "manifest": "https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/golden-noir/theme.json"
+    },
+    {
+      "id": "ocean_breeze",
+      "name": "Ocean Breeze",
+      "description": "Azul océano · Turquesa · Relajante",
+      "manifest": "https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/ocean-breeze/theme.json"
+    },
+    {
+      "id": "rose_gold",
+      "name": "Rose Gold",
+      "description": "Rosa profundo · Coral · Elegante",
+      "manifest": "https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/rose-gold/theme.json"
+    },
+    {
+      "id": "dark_glass",
+      "name": "Dark Glass",
+      "description": "Carbón · Azul hielo · Minimalista",
+      "manifest": "https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/dark-glass/theme.json"
+    }
+  ]
+}
