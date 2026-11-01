@@ -8,7 +8,7 @@ En Wave Music, abre **Temas** → **Instalar tema desde GitHub** y pega el enlac
 Los paquetes son archivos JSON de configuración. No contienen ni ejecutan código Kotlin o Java.
 
 ## Temas disponibles
-- **Midnight Cyan** — diseño Studio con fondo azul noche, paneles azul profundo y acentos cian.
+- **Midnight Cyan** — diseño Wave Premium con interfaz AMOLED renovada, portadas reales, paneles flotantes y acentos cian.
 
 Enlace de instalación:
 `https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/midnight-cyan/theme.json`
