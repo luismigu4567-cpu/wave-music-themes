@@ -8,5 +8,6 @@
   "panelColor": "#FF0B2934",
   "accentColor": "#FF27D7E5",
   "textColor": "#FFE9FCFF",
-  "cornerRadiusDp": 24
+  "cornerRadiusDp": 24,
+  "visualStyle": "ocean"
 }
