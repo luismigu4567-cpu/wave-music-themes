@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "layout": "premium",
+  "id": "ocean_breeze",
+  "name": "Ocean Breeze",
+  "description": "Azul océano · Turquesa · Relajante",
+  "backgroundColor": "#FF04131B",
+  "panelColor": "#FF0B2934",
+  "accentColor": "#FF27D7E5",
+  "textColor": "#FFE9FCFF",
+  "cornerRadiusDp": 24
+}
