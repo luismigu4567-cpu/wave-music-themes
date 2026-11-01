@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "layout": "premium",
+  "id": "dark_glass",
+  "name": "Dark Glass",
+  "description": "Carbón · Azul hielo · Minimalista",
+  "backgroundColor": "#FF070A10",
+  "panelColor": "#FF151D2A",
+  "accentColor": "#FF9BC8FF",
+  "textColor": "#FFF2F6FF",
+  "cornerRadiusDp": 18
+}
