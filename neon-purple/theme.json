@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "layout": "premium",
+  "id": "neon_purple",
+  "name": "Neon Purple",
+  "description": "Violeta neón · Futurista · Vibrante",
+  "backgroundColor": "#FF0A0615",
+  "panelColor": "#FF1D1230",
+  "accentColor": "#FFE14BFF",
+  "textColor": "#FFFFFFFF",
+  "cornerRadiusDp": 24
+}
