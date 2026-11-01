@@ -2,13 +2,19 @@
 
 Repositorio público de paquetes de temas para Wave Music.
 
-## Instalar un tema
-En Wave Music, abre **Temas** → **Instalar tema desde GitHub** y pega el enlace RAW del archivo JSON del tema.
+## Catálogo integrado
+Wave Music puede consultar el catálogo desde:
 
-Los paquetes son archivos JSON de configuración. No contienen ni ejecutan código Kotlin o Java.
+`https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/catalog.json`
 
-## Temas disponibles
-- **Midnight Cyan** — diseño Wave Premium con interfaz AMOLED renovada, portadas reales, paneles flotantes y acentos cian.
+Cada entrada apunta a un paquete `theme.json` independiente.
 
-Enlace de instalación:
-`https://raw.githubusercontent.com/luismigu4567-cpu/wave-music-themes/main/midnight-cyan/theme.json`
+## Temas
+- Midnight Cyan — cian AMOLED.
+- Neon Purple — violeta neón.
+- Golden Noir — negro y dorado.
+- Ocean Breeze — azul océano y turquesa.
+- Rose Gold — rosa y coral.
+- Dark Glass — carbón y azul hielo.
+
+Los paquetes contienen únicamente datos de configuración y seleccionan layouts que ya están incluidos en Wave Music. No ejecutan código remoto.
