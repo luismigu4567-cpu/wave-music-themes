@@ -8,5 +8,6 @@
   "panelColor": "#FF321522",
   "accentColor": "#FFFF7FA8",
   "textColor": "#FFFFF1F5",
-  "cornerRadiusDp": 24
+  "cornerRadiusDp": 24,
+  "visualStyle": "rose"
 }
