@@ -8,5 +8,6 @@
   "panelColor": "#FF201A0D",
   "accentColor": "#FFFFC928",
   "textColor": "#FFFFF7E2",
-  "cornerRadiusDp": 20
+  "cornerRadiusDp": 20,
+  "visualStyle": "noir"
 }
