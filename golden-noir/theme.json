@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "layout": "premium",
+  "id": "golden_noir",
+  "name": "Golden Noir",
+  "description": "Negro profundo · Dorado · Sofisticado",
+  "backgroundColor": "#FF080808",
+  "panelColor": "#FF201A0D",
+  "accentColor": "#FFFFC928",
+  "textColor": "#FFFFF7E2",
+  "cornerRadiusDp": 20
+}
